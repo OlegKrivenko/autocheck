@@ -1,0 +1,2 @@
+# autocheck
+autocheck HomeWork
